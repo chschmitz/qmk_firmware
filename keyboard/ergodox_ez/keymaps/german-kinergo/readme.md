@@ -19,6 +19,8 @@ Modifications I made with regard to the aforementioned layouts:
 
 * I added a PrintScreen key which I use quite regularly for screenshots.
 
+* In the code layer, the Backspace key becomes Insert.
+
 ## Default Layer
 
 ![Layout of the default layer](layout.png "Layout of the default layer")
